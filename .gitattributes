@@ -1,2 +1,2 @@
 *.py linguist-language=Scala
-XSLT linguist-language=Scala
+*.xml linguist-language=Scala
